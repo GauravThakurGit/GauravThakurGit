@@ -60,14 +60,5 @@ I am passionate about understanding the **logic and mechanisms behind software s
 
 ---
 
-## 📌 Projects
-🔹 **AI Study Planner** – Smart study scheduling system  
-🔹 **DSA Practice Repository** – Topic-wise problem solutions  
-🔹 **PDF Text Extractor** – Automated topic extraction from PDFs  
-🔹 **Unified Government Services Portal (UI/UX Concept)**  
-
-👉 Explore my repositories to see **clean code & structured solutions**
-
----
 
 ⭐ *Consistently learning, solving problems, and building better software every day.*
