@@ -1,5 +1,5 @@
 # 💫 About Me:
-’m a passionate Full Stack Developer and Data Science enthusiast who enjoys understanding how software works at its core. I love building clean, functional applications and experimenting with new technologies to create better digital experiences.
+I’m a passionate Full Stack Developer and Data Science enthusiast who enjoys understanding how software works at its core. I love building clean, functional applications and experimenting with new technologies to create better digital experiences.
 
 
 ## 🌐 Socials:
