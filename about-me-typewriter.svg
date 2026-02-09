@@ -1,0 +1,49 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .text {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-size: 18px;
+      fill: #e5e7eb;
+    }
+
+    .mask-rect {
+      animation: type 10s steps(200) forwards;
+    }
+
+    @keyframes type {
+      from { width: 0; }
+      to { width: 1100px; }
+    }
+
+    .cursor {
+      animation: blink 1s step-end infinite;
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <defs>
+    <mask id="typeMask">
+      <rect class="mask-rect" x="0" y="0" height="220" width="0" fill="white"/>
+    </mask>
+  </defs>
+
+  <text x="20" y="40" class="text">💫 About Me:</text>
+
+  <g mask="url(#typeMask)">
+    <text x="20" y="80" class="text">
+      I'm a passionate Full Stack Developer and Data Science enthusiast who enjoys understanding how software works at its core.
+    </text>
+    <text x="20" y="110" class="text">
+      I love building clean, functional applications and experimenting with new technologies to create better digital experiences.
+    </text>
+  </g>
+
+  <!-- Cursor -->
+  <rect x="1120" y="65" width="2" height="18" fill="#e5e7eb" class="cursor"/>
+
+</svg>
