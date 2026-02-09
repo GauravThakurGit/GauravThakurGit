@@ -1,3 +1,5 @@
+![Gaurav Thakur](https://github.com/GauravThakurGit/GauravThakurGit/blob/main/gaurav-thakur-signature-light-blue.svg)
+
 # 💫 About Me:
 I’m a passionate Full Stack Developer and Data Science enthusiast who enjoys understanding how software works at its core. I love building clean, functional applications and experimenting with new technologies to create better digital experiences.
 
