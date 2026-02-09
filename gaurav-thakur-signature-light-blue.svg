@@ -1,0 +1,31 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .signature {
+      font-family: "Allura", "Alex Brush", "Segoe Script", cursive;
+      font-size: 110px;
+      fill: none;
+      stroke: #7fd3ff;          /* Light sky blue */
+      stroke-width: 4;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+
+      stroke-dasharray: 2400;
+      stroke-dashoffset: 2400;
+
+      animation: write 8s cubic-bezier(0.65, 0, 0.35, 1) forwards;
+    }
+
+    @keyframes write {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+  </style>
+
+  <text x="60" y="170" class="signature">
+    Gaurav Thakur
+  </text>
+
+</svg>
